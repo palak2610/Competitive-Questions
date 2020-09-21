@@ -5,15 +5,17 @@ Given an Integer N, write a program to reverse it.
 
 The first line contains an integer T, total number of testcases. Then follow T lines, each line contains an integer N.
 <hr>
+
 **Output**
 
 For each test case, display the reverse of the given number N, in a new line.
 <hr>
+
 **Constraints**
-<hr>
 1 ≤ T ≤ 1000
 
 1 ≤ N ≤ 1000000
+<hr>
 
 **Example**
 
