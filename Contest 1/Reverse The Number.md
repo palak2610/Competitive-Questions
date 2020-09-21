@@ -10,7 +10,7 @@ The first line contains an integer T, total number of testcases. Then follow T l
 For each test case, display the reverse of the given number N, in a new line.
 <hr>
 **Constraints**
-
+<hr>
 1 ≤ T ≤ 1000
 
 1 ≤ N ≤ 1000000
