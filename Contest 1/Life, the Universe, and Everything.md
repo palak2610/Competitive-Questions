@@ -5,13 +5,19 @@ the number 42. All numbers at input are integers of one or two digits.
 __Sample Input:__
 
 1
+
 2
+
 88
+
 42
+
 99
 
 __Sample Output:__
 
 1
+
 2
+
 88
