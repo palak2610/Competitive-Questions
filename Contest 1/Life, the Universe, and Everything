@@ -1,23 +1,15 @@
-Given an Integer N, write a program to reverse it.
+Your program is to use the brute-force approach in order to find the Answer to Life, the Universe, and Everything. More precisely… 
+rewrite small numbers from input to output. Stop processing input after reading in the number 42. All numbers at input are 
+integers of one or two digits.
 
-### Input
-The first line contains an integer T, total number of testcases. Then follow T lines, each line contains an integer N.
+**Sample Input:**
+1
+2
+88
+42
+99
 
-### Output
-For each test case, display the reverse of the given number N, in a new line.
-
-Constraints
-1 ≤ T ≤ 1000
-1 ≤ N ≤ 1000000
-Example
-Input
-4
-12345
-31203
-2123
-2300
-Output
-54321
-30213
-3212
-32
+**Sample Output:**
+1
+2
+88
