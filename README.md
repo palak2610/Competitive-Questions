@@ -1,6 +1,6 @@
 # DSA-Learning-Series-
 
-## DSA-Learning-Series-Contest1 [](https://www.codechef.com/LRNDSA01)
+## [DSA-Learning-Series-Contest1](https://www.codechef.com/LRNDSA01)
 
 - Life, the Universe, and Everything solved
 - Reverse The Number
