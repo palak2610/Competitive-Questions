@@ -4,11 +4,11 @@ Given an Integer N, write a program to reverse it.
 **Input**
 
 The first line contains an integer T, total number of testcases. Then follow T lines, each line contains an integer N.
-
+<hr>
 **Output**
 
 For each test case, display the reverse of the given number N, in a new line.
-
+<hr>
 **Constraints**
 
 1 ≤ T ≤ 1000
@@ -19,22 +19,15 @@ For each test case, display the reverse of the given number N, in a new line.
 
 Input
 
-4
-
-12345
-
-31203
-
-2123
-
-2300
+4<br>
+12345<br>
+31203<br>
+2123<br>
+2300<br>
 
 Output
 
-54321
-
-30213
-
-3212
-
-32
+54321<br>
+30213<br>
+3212<br>
+32<br>
