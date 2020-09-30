@@ -5,7 +5,7 @@ More precisely… rewrite small numbers from input to output. Stop processing in
 All numbers at input are integers of one or two digits.
 <hr>
 
-**Sample Input:**
+**Sample Input:**<br>
 1<br>
 2<br>
 88<br>
@@ -13,7 +13,7 @@ All numbers at input are integers of one or two digits.
 99<br>
 <hr>
 
-**Sample Output:**
+**Sample Output:**<br>
 1<br>
 2<br>
 88<br>
