@@ -14,55 +14,58 @@ Find and return the required subarray.
 
 **NOTE:**
 
-1) If there is a tie, then compare with segment's length and return segment which
-has maximum length.
-2) If there is still a tie, then return the segment with minimum starting index.
+1. If there is a tie, then compare with segment's length and return segment which
+has maximum length.<br>
+2. If there is still a tie, then return the segment with minimum starting index.<br>
 
 
-**Problem Constraints**
-1 <= N <= 105
--109 <= A[i] <= 109
+**Problem Constraints**<br>
+1 <= N <= 105<br>
+-109 <= A[i] <= 109<br>
 
 
 
-**Input Format**
+**Input Format**<br>
 The first and the only argument of input contains an integer array A, of length N.
 
 
 
-**Output Format**
+**Output Format**<br>
 Return an array of integers, that is a subarray of A that satisfies the given conditions.
 
 
 
-**Example Input**
+**Example Input**<br>
 Input 1:<br>
-'''
- A = [1, 2, 5, -7, 2, 3]
-'''
+
+```
+ A = [1, 2, 5, -7, 2, 3] 
+```
+<br>
+
 Input 2:<br>
-'''
- A = [10, -1, 2, 3, -4, 100]
-'''
+```
+  A = [10, -1, 2, 3, -4, 100]
+```
 
-**Example Output**
+**Example Output**<br>
 Output 1:<br>
-'''
+```
  [1, 2, 5]
-'''
+```
 Output 2:<br>
-'''
+```
  [100]
-'''
+```
 
-**Example Explanation**
+**Example Explanation**<br>
 Explanation 1:<br>
-'''
+```
  The two sub-arrays are [1, 2, 5] [2, 3].
  The answer is [1, 2, 5] as its sum is larger than [2, 3].
-'''
+```
 Explanation 2:<br>
-'''
+```
  The three sub-arrays are [10], [2, 3], [100].
  The answer is [100] as its sum is larger than the other two.
- '''
+```
